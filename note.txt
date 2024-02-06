@@ -1,0 +1,18 @@
+{
+    "username":"mofaruque",
+    "email":"mofaruque@gmail.com",
+    "password":"mofaruque1234"
+}
+
+
+Compile your project: mvn compile
+  
+Package your application into a JAR file: mvn package
+
+Run your Spring Boot application: mvn spring-boot:run
+
+Clean your project (remove target directory): mvn clean
+
+Install your project into local Maven repository: mvn install
+
+Run tests: mvn test
